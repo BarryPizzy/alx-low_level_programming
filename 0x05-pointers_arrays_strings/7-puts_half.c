@@ -2,16 +2,16 @@
 
 /**
  * puts_half - string to print halfhaf followed by a new line
- * @str: half string 
+ * @str: half string
  * Return: half string
  */
 
 void puts_half(char *str)
 {
 	int i, n, len;
-	
+
 	len = 0;
-	
+
 	for (i = 0; str[i] != '\0'; i++)
 		len++;
 	n = (len / 2);
