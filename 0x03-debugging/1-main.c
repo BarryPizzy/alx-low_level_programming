@@ -3,7 +3,7 @@
 
 /**
 * main - causes an infinite loop
-*
+* \\o/|n: size of loop and new line
 * description: Comment out (don’t delete it!) the part of the code
 * Return: 0
 *
