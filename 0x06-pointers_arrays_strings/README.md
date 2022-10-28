@@ -1,1 +1,1 @@
-task 3:strncpy function that copies a string
+task 3:trcmp function that compares two strings.
