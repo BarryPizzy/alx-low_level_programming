@@ -1,5 +1,4 @@
 #include "main.h"
-#include <stdio>
 
 /**
  * rot13 - Entry point
