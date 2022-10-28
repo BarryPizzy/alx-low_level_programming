@@ -1,1 +1,1 @@
- task 1:strncat  function that concatenates two strings
+task 3:strncpy function that copies a string
