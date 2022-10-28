@@ -1,1 +1,1 @@
-task 5:always look up, function that changes all lowercase letters of a string to uppercase.
+task 6: function that capitalizes all words of a string
