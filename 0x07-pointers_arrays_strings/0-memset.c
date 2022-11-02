@@ -1,8 +1,7 @@
 #include "main.h"
-#include <string.h>
 
 /**
- * _memset - a function to fill the memory with a constant byte
+ * _memset - a function to fill memory with constant bytes
  * @s: a string
  * @b: a character
  * @n: an integer
